@@ -1,4 +1,4 @@
-1. Business Understanding
+## 1. Business Understanding
    
 Objective: Predict who is likely/unlikely to get the H1N1 vaccine based on survey data to help public health organizations target outreach efforts more effectively.
 
