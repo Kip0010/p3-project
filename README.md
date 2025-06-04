@@ -22,7 +22,7 @@ Traditional methods (e.g., averages, graphs) can't capture complex interactions 
 
 -Identify unexpected patterns.
 
-# 2. Data Understanding
+## 2. Data Understanding
    
 Dataset: 2009 National H1N1 Flu Survey (26,707 respondents, 36 features + 2 targets).
 
