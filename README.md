@@ -118,13 +118,13 @@ Recall: 63.1%
 
 F1-score: 60.1%
 
-Confusion Matrix:
+* Confusion Matrix:
 
 Predicted 0	Predicted 1
 Actual 0	3,674 (TN)	533 (FP)
 Actual 1	419 (FN)	716 (TP)
 
-Key Insights:
+* Key Insights:
 
 Model is better at identifying non-vaccinated individuals (high TN).
 
@@ -134,7 +134,7 @@ Optimized threshold improves recall (catches more vaccinated cases).
 
 SHAP Analysis:
 
-Top predictors:
+* Top predictors:
 
 Doctor recommendations (+0.16 mean |SHAP|).
 
